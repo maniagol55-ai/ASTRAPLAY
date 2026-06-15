@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_channels" android:title="Canales" android:icon="@drawable/ic_tv" />
+    <item android:id="@+id/nav_favorites" android:title="Favoritos" android:icon="@drawable/ic_star_outline" />
+    <item android:id="@+id/nav_epg" android:title="Guía" android:icon="@drawable/ic_epg" />
+    <item android:id="@+id/nav_settings" android:title="Ajustes" android:icon="@drawable/ic_settings" />
+</menu>
